@@ -1,4 +1,5 @@
-Me chamo Thiago, moro em São Paulo, tenho 24 anos e estudo Análise e Desenvolvimento de Software.
+Me chamo Thiago, moro em São Paulo, tenho 24 anos, estudo Análise e Desenvolvimento de Software e estou sempre em busca de novos desafios.
+Atualmente trabalho em um estágio de Desenvolvimento de Software.
 
 Tenho conhecimentos em:
 - Javascript
